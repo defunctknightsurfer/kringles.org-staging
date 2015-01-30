@@ -4,8 +4,11 @@ title: About
 permalink: /about/
 ---
 
-My personal project: 
+My personal project:
 [RepeaterLink.com](http://www.repeaterlink.com)
+
+Videography:
+[You Tube Channel](https://www.youtube.com/user/pkringle/)
 
 Photography:
 [Flickr](https://www.flickr.com/photos/peterkringle)
