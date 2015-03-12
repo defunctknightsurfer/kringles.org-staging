@@ -14,4 +14,6 @@ Now that I have had the Jeep running a bit longer, I got some good photos and vi
 
 <img src="http://photography.kringles.org/gallery3/var/resizes/JeepRC/2015-03-11%2017_54_56.jpg?m=1426185459">
 
+Video!
+
 [![Project Jeep RC rock Crawling](http://img.youtube.com/vi/YgFg3y79CmQ/0.jpg)](https://www.youtube.com/watch?v=YgFg3y79CmQ)
