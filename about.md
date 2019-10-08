@@ -17,7 +17,7 @@ Ham Radio:
 [WØPGK](https://www.qrz.com/db/w0pgk)
 
 GeoCaching:<BR>
-<a href="httpis://www.geocaching.com/profile/?guid=8ac29c92-25fc-431a-b2ac-51fbe9d26ca9" target="_blank"><img src="https://img.geocaching.com/stats/img.aspx?txt=Let's+Go+Geocaching!&uid=8ac29c92-25fc-431a-b2ac-51fbe9d26ca9&bg=1" alt="Profile for WØPGK" /></a>
+<a href="https://www.geocaching.com/profile/?guid=8ac29c92-25fc-431a-b2ac-51fbe9d26ca9" target="_blank"><img src="https://img.geocaching.com/stats/img.aspx?txt=Let's+Go+Geocaching!&uid=8ac29c92-25fc-431a-b2ac-51fbe9d26ca9&bg=1" alt="Profile for WØPGK" /></a>
 
 Professional Life:
 [LinkedIn](https://www.linkedin.com/pub/peter-kringle/)
