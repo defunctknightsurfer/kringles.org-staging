@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   simple information about myself and try to update on finds and things
   I have done.  Check back offen to see what I have been up too.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.kringles.org" # the base hostname & protocol for your site
+url: "https://www.kringles.org" # the base hostname & protocol for your site
 github_username:  pkringle
 
 # Build settings
