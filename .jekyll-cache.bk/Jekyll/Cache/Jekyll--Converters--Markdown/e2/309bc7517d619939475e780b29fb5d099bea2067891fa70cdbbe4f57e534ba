@@ -1,0 +1,46 @@
+I"W<p>In a virutal enviorment I have found that I still like a lot of the features of zfs, but I do not end the RAID functionaily.  With that I had the need to expand a single disk zpool due to space issues.  In the past, we simply just added a second disk creating a RAID 0.  But I knew there was a better way.  ZFS on Linux does support resizing or autoexpand on a single disk zpool.  To do this, do the following steps.</p>
+
+<ol>
+  <li>
+    <p>Create or Set your zpool with autoextend on (it defaults to off)</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> zpool set autoexpand=on tank
+</code></pre></div>    </div>
+  </li>
+  <li>Via your Virtual Host tools, extend the disk in question to the size you need.</li>
+  <li>
+    <p>Now on your VM, get the disk name in your zpool</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> zpool status
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Run parted on that disk to resize the partition.</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> parted /dev/sdb
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Now simply use resizepart and it will default to the max</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> (parted) resizepart                                                       
+ Partition number? 1                                                       
+ End?  [X.XGB]?                                                           
+ (parted) quit   
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Now that you completed that, you need to just tell the zpool to expand.  You can do this online by running the following command.</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> zpool online -e tank sdb
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>You should now notice that your partition is now larger</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> df -h
+</code></pre></div>    </div>
+  </li>
+</ol>
+
+:ET

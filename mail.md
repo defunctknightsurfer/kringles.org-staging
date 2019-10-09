@@ -1,5 +1,5 @@
 ---
 title: Mail
 layout: external 
-external_url: https://mail.kringles.org
+external_url: http://mail.kringles.org
 ---
