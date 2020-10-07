@@ -11,5 +11,5 @@ github_username:  pkringle
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
+#theme: jekyll-theme-hacker
 keep_files: ["CNAME", ".git", "README.md"]

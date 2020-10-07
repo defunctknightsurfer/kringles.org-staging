@@ -8,40 +8,32 @@ I have had my ham radio license (WØPGK) for 13 years, and have always had a mob
 
 
 To start with, I will show you the center console.  You can see that I ran an external speaker up here since the unit speaker is under the seat.
-
-<img src="http://photography.kringles.org/gallery3/var/resizes/Jeep_HamRadio_install/2014-09-14%2009_28_10.jpg?m=1423691821">
+![image](/images/Jeep_HamRadio_install/2014-09-14%2009_28_10.jpg)
 
 I placed the ham radio mic to the left, which is still easy to reach
-
-<img src="http://photography.kringles.org/gallery3/var/resizes/Jeep_HamRadio_install/2014-09-14%2009_27_28.jpg?m=1423691824">
+![image](/images/Jeep_HamRadio_install/2014-09-14%2009_27_28.jpg)
 
 I extended the mic cable with a RJ45 connector 
-
-<img src="http://photography.kringles.org/gallery3/var/resizes/Jeep_HamRadio_install/2014-09-14%2009_27_36.jpg?m=1423691825">
+![image](/images/Jeep_HamRadio_install/2014-09-14%2009_33_00.jpg)
 
 I located the the radio base unit under the passenger seat.  I would like to change this in the furture as this has no water proofing if I ever get into water deep enough to reach this.
-
-<img src="http://photography.kringles.org/gallery3/var/resizes/Jeep_HamRadio_install/2014-09-14%2009_31_02.jpg?m=1423691809">
+![image](/images/Jeep_HamRadio_install/2014-09-14%2009_31_02.jpg)
 
 As for power source, I have one lead connected to the battery.
-
-<img src="http://photography.kringles.org/gallery3/var/resizes/Jeep_HamRadio_install/2014-09-14%2009_38_45.jpg?m=1423691798">
+![image](/images/Jeep_HamRadio_install/2014-09-14%2009_38_45.jpg)
 
 I run that power lead through the firewall through a well know access hole next to the door
-
-<img src="http://photography.kringles.org/gallery3/var/resizes/Jeep_HamRadio_install/2014-09-14%2009_35_44.jpg?m=1423691799">
+![image](/images/Jeep_HamRadio_install/2014-09-14%2009_35_44.jpg)
 
 The power is connected to a Automatic power switch that power everything down 10 minutes after the engine has been shut off.
-
-<img src="http://photography.kringles.org/gallery3/var/resizes/Jeep_HamRadio_install/2014-09-14%2009_33_00.jpg?m=1423691808">
+![image](/images/Jeep_HamRadio_install/2014-09-14%2009_33_00.jpg)
 
 The power is then routed to a distribution block which connects the GPS, phone changer, CB radio and ham radio.
-
-<img src="http://photography.kringles.org/gallery3/var/resizes/Jeep_HamRadio_install/2014-09-14%2009_32_03.jpg?m=1423691810">
+![image](/images/Jeep_HamRadio_install/2014-09-14%2009_32_03.jpg)
 
 As for the mentioned GPS, I have it up on top of one of the A pillers tucked away and out of sight.
+![image](/images/Jeep_HamRadio_install/2014-09-14_11_08_21.jpg)
 
-<img src="http://photography.kringles.org/gallery3/var/resizes/Jeep_HamRadio_install/2014-09-14%2011_08_21.jpg?m=1423691798">
 
 Note, that everything uses Power Poles which makes connecting power lead extremelly easy.  These are not required, but recommmend.
 
