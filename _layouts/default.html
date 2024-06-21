@@ -1,20 +1,24 @@
 <!DOCTYPE html>
-<html>
-  {% include google_analytics.html %}
-  {% include head.html %}
+<html lang="en">
+<head>
+    {% include head.html %}
+</head>
 
-  <body>
+<body>
+    <div class="wrapper">
+        <header class="wrapper-header">
+            {% include header.html %}
+        </header>
 
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+        <main class="wrapper-main">
+            <div class="main-content">
+            {{ content }}
+            </div>
+        </main>
     </div>
 
-    {% include footer.html %}
-
-  </body>
-
+    <footer class="wrapper-footer">
+        {% include footer.html %}
+    </footer>
+</body>
 </html>
