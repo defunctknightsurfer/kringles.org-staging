@@ -2,5 +2,7 @@
   link: /posts
 - name: Categories
   link: /categories/
+- name: GPG / PGP
+  link: /gpg/
 - name: About & Contact
   link: /

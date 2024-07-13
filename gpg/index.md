@@ -1,26 +1,11 @@
-I"/<h2 id="about">About</h2>
-<p>Welcome to my personal website, kringles.org.  Here I will have some
-simple information about myself and try to update it when I have time.<br />
-Check back to see what I have been up too.
-<br /></p>
-<h2 id="hobbies">Hobbies</h2>
-<p>Jeeping:
-<i class="fa-solid fa-truck-monster"></i> <a href="https://revkit.com/w0pgk/">Revkit</a>
-<br />
-Ham Radio: 
-<i class="fas fa-broadcast-tower"></i> <a href="https://www.qrz.com/db/w0pgk">WØPGK</a>
-<br />
-Github: <i class="fa-brands fa-github"></i> <a href="https://github.com/defunctknightsurfer">defunctknightsurfer</a>
-<br />
-GeoCaching:
-<a href="https://www.geocaching.com/profile/?guid=8ac29c92-25fc-431a-b2ac-51fbe9d26ca9" target="_blank"><img src="https://img.geocaching.com/stats/img.aspx?txt=Let's+Go+Geocaching!&amp;uid=8ac29c92-25fc-431a-b2ac-51fbe9d26ca9&amp;bg=1" alt="Profile for WØPGK" /></a></p>
+---
+layout: default
+title: LightSpeed Contact
+---
 
-<h2 id="professional-life">Professional Life:</h2>
-<p><i class="fa-brands fa-linkedin"></i> <a href="https://www.linkedin.com/in/peterkringle/">LinkedIn</a>
-<br /></p>
-<h2 id="contact">Contact</h2>
-<p><i class="fa-solid fa-lock"></i> GPG / PGP:</p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>-----BEGIN PGP PUBLIC KEY BLOCK-----
+<i class="fa-solid fa-lock"></i> GPG / PGP Key:
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG/MacGPG2 v2.0.17 (Darwin)
 
 mQENBE1/1A8BCAC3MLTp+/SakxZGJTwT5XwJC2xOAFCvJUxDZJ0r1wcI2TAD1vH9
@@ -56,5 +41,4 @@ lvVaUVia4CihpB1RXqq/RLOH7YbCxXts4wqD/YKu70hbHSoBGCTHtJokfwRbDv3L
 rBL2bW8BMuJ2sZjZTpc9cupdfw9+7CvPO1QOsjV9eUc=
 =U5/X
 -----END PGP PUBLIC KEY BLOCK-----
-</code></pre></div></div>
-:ET
+```
